@@ -7,7 +7,7 @@ To write a C Program to convert a given decimal value to binary using function w
 1. 
 2. 
 3. 
-4.  
+4.  rg
 5.   
 
 ## Program:
@@ -15,7 +15,7 @@ To write a C Program to convert a given decimal value to binary using function w
 /*
 Program to C Program to convert a given decimal value to binary using function without arguments with return type.
 Developed by: 
-RegisterNumber:  
+RegisterNumber:  rtg
 */
 ```
 
